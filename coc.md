@@ -50,6 +50,7 @@ If you see something that seems off or scary, ask how folks are doing, or grab a
 
 ##Addendum for staff & volunteers
 As staff or volunteer, you have a lot of jobs. Here are three:
+
 - It is your job to be available to solve problems that come up relating to people, like if someone's not able to follow the code of conduct. 
 - It's also your job to solve accessibility issues, like if there's a cord that could trip someone using a cane, or if aisles aren't big enough for a wheelchair, or any other access issue.
 - It's your job to make sure transgender folk have access to bathrooms.
