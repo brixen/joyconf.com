@@ -47,3 +47,10 @@ If, in the view of the staff, someone is not able to follow the conference rules
 If someone "calls you out", hear the feedback. Listen for their experience, the feelings coming up. Consider how those emotions feel to you; notice what you have in common. Accept that something you did brought those feeling up for that person. Doesn't mean you decide you are bad, or you were "wrong" -- it means that you notice what happened, and accept it. Receive the feedback, and whatever clarifications they're _happy_ to provide, and then in private, mull them over. Ask friends questions, and decide for yourself what resonates with you and what doesn't, and what actions you want to take in response.
 
 If you see something that seems off or scary, ask how folks are doing, or grab a staff member for help. We will not blow you off. We will be grateful.
+
+##Addendum for staff & volunteers
+As staff or volunteer, you have a lot of jobs. Here are three:
+- It is your job to be available to solve problems that come up relating to people, like if someone's not able to follow the code of conduct. 
+- It's also your job to solve accessibility issues, like if there's a cord that could trip someone using a cane, or if aisles aren't big enough for a wheelchair, or any other access issue.
+- It's your job to make sure transgender folk have access to bathrooms.
+- It's your job to watch for people feeling left out, and include them.
