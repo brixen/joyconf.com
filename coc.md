@@ -18,12 +18,12 @@ No one at JoyConf, or at any events associated with JoyConf, may speak to, touch
 
 Shaming is hard to define. So we don't define it, we listen to each other. We work to learn how our behavior affects others. Here are some areas you may get the opportunity to learn about.
 
-- No Geekier-than-thou
-- No Sexism
-- No Racism
+- No racism
+- No geekier-than-thou
+- No sexism
 - No ableism
-- No Homophobia
-- No Fatphobia or body shaming
+- No homophobia
+- No fatphobia or body shaming
 - No religious or non-religious shaming 
 
 ##When someone's hurting
