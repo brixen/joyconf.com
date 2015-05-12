@@ -6,7 +6,7 @@ Sometimes things go wrong. This code of conduct is an effort to prevent people b
 ###Specific things
 Here are some specific things that have occurred at conferences. We do not expect them to occur at JoyConf (of course!). We also want to take positive action to prevent them. Just to be sure.
 
-- Someone talked about vim as though non-vim people are less-than, and onlookers feel shitty.
+- Someone talked about vim as though non-vim people are less-than, and onlookers felt shitty.
 - A woman was followed back to the hotel by drunk men she doesn't know, loudly joking about how hot she is.
 - A black man attending a conference overheard white folks "acting black"
 - A drunk boss groped a female employee, with other people looking on.
