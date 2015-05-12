@@ -1,2 +1,2 @@
-#joyconf.com
+#JoyConf.com
 
